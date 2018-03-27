@@ -9,4 +9,4 @@
 * 定位迅速准确
 
 [淘宝购买](https://item.taobao.com/item.htm?spm=a1z38n.10677092.0.0.e24a1debwWkPsQ&id=560533511786)
-[开始了解](#签到点名助手)
+[开始了解](#小程序码)
