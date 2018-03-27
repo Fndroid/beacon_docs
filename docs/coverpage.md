@@ -1,5 +1,3 @@
-![logo](https://github.com/Fndroid/beacon_docs/blob/master/imgs/beacon_icon_circle.png?raw=true)
-
 # 签到点名助手
 
 > 一个易用且安全的签到解决方案。
