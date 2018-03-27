@@ -2,6 +2,8 @@
 
 > 一个高效易用的签到微信小程序。
 
+## 小程序码
+
 ![小程序码](https://github.com/Fndroid/beacon_docs/blob/master/imgs/mpcode.jpg?raw=true)
 
 ## 简介
