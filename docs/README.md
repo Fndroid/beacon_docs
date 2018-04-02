@@ -4,7 +4,7 @@
 
 ## 小程序码
 
-![小程序码](https://github.com/Fndroid/beacon_docs/blob/master/imgs/mpcode.jpg?raw=true)
+![小程序码](_images/mpcode.jpg)
 
 ## 特点简介
 
@@ -64,7 +64,7 @@
 
 #### 用户签到
 
-![](https://github.com/Fndroid/beacon_docs/blob/master/imgs/use.jpg?raw=true)
+![](_images/use.jpg)
 
 具体流程：
 1. 进入签到场地，打开小程序，点击开始签到
@@ -80,16 +80,16 @@
 
 1. **转发小程序到群组**
 
- ![](https://github.com/Fndroid/beacon_docs/blob/master/imgs/use5.jpg?raw=true)
+ ![](_images/use5.jpg)
 
 2. **打印二维码/小程序码**
 
-  ![](https://github.com/Fndroid/beacon_docs/blob/master/imgs/use6.jpg?raw=true)
+  ![](_images/use6.jpg)
 
 
 #### 查看设备信息
 
-![](https://github.com/Fndroid/beacon_docs/blob/master/imgs/use2.jpg?raw=true)
+![](_images/use2.jpg)
 
 管理员可操作内容：
 - 查看一个或多个设备的签到记录
@@ -100,7 +100,7 @@
 
 #### 筛选签到信息
 
-![](https://github.com/Fndroid/beacon_docs/blob/master/imgs/use3.jpg?raw=true)
+![](_images/use3.jpg)
 
 > 日期不包括后者当天数据，如上图仅显示23日数据
 
@@ -108,7 +108,7 @@
 
 #### 签到数据导出
 
-![](https://github.com/Fndroid/beacon_docs/blob/master/imgs/use4.jpg?raw=true)
+![](_images/use4.jpg)
 
 > 生成链接成功后，使用PC浏览器即可下载EXCEL文档
 
