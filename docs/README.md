@@ -114,13 +114,12 @@
 
 > 建议定期下载对应时间段的签到数据以便整理
 
-## 模块外观
+## 设备外观
 
 ![](https://github.com/Fndroid/beacon_docs/blob/master/imgs/beacon1.jpg?raw=true)
-
 ![](https://github.com/Fndroid/beacon_docs/blob/master/imgs/beacon2.jpg?raw=true)
 
-## 设备购买相关
+## 设备购买
 
 ?> 活动1：2018.4.30日前购买不退货可以获得运费补偿（相当于包邮）。
 
