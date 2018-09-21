@@ -125,7 +125,7 @@
 
 ### 如何购买
 
-- 淘宝购买：通过[购买地址](https://item.taobao.com/item.htm?spm=a1z38n.10677092.0.0.e24a1debwWkPsQ&id=560533511786)下单即可
+- 淘宝购买：通过[购买地址](https://item.taobao.com/item.htm?spm=a1z38n.10677092.0.0.a8631debwjrvPI&id=578093795088)下单即可
 - 微信购买：添加开发者微信后转账购买即可
 
 !> 推荐使用淘宝进行购买，能保障交易权益
